@@ -14,6 +14,6 @@
 	|
 	|- data/          		# Raw data growth simulation data
 	|
-	|- code/				# All programmatic code for model analyses, statistical testing, and figure generation
+	|- code/			# All programmatic code for model analyses, statistical testing, and figure generation
 	|
-	|- results/				# Output figures
+	|- results/			# Final analysis output figures
