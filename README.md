@@ -9,12 +9,11 @@
 
 	project
 	|- README          		# Description of content
+	|
 	|- LICENSE         		# The license for this project
 	|
-	|- jupyter_notebook/	# COBRApy transcriptomic integration and analysis pipeline
+	|- data/          		# Raw data growth simulation data
 	|
-	|- data/          		# Output data from transcriptome contextualization
+	|- code/				# All programmatic code for model analyses, statistical testing, and figure generation
 	|
-	|- R_code/				# Statistical test and figure generation code
-	|
-	|- results/				# All output figures
+	|- results/				# Output figures
