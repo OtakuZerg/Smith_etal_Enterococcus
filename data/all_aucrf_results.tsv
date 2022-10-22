@@ -1,0 +1,11 @@
+id	mda	name
+rxn00471_c	36.1079219026309	L-Ornithine_ammonia-lyase_(L-proline-forming)
+rxn01977_c	34.0617928778433	alpha-D-Glucose_6-phosphate_ketol-isomerase
+rxn05209_c	28.6135298264855	Na+/H(+)_antiporter
+rxn01967_c	28.4758834478147	beta-D-Glucose_1-phosphate_1,6-phosphomutase
+rxn00258_c	24.0808406168372	Malonyl-CoA:pyruvate_carboxytransferase
+rxn00260_c	23.4498759650613	L-Aspartate:2-oxoglutarate_aminotransferase
+R00258_c	22.1594756369073	L-Alanine:2-oxoglutarate_aminotransferase
+rxn05560_c	21.6395505339001	D-Fructose_transport_via_PEP
+rxn05318_c	19.8798422307958	Adenosine_transport
+rxn34357_c	19.1535804562694	Aspartate:Na+_symporter
